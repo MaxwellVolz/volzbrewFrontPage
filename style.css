@@ -1,0 +1,23 @@
+#navbar > ul > li:nth-child(4) > div{
+	width: 300px;
+    margin: 8px;
+    overflow:hidden;
+}
+
+div.testStyle{
+	height:500px;
+	background-image: url("images/test.png");
+	background-size:cover;
+	overflow:hidden;
+	background-color:black;
+}
+
+
+
+body > div.btn-group.btn-group-justified > div > button > img{
+
+}
+
+body > div.row{
+	margin-right:0px;
+}
